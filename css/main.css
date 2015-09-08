@@ -1,0 +1,40 @@
+
+body{
+background-color: #E3E5E7;
+margin-left: 400px;
+margin-right: 400px;
+}
+h1
+{   font-size: 60px;
+font-family: Oxygen,Helvetica Neue,Arial;
+font-weight: lighter;
+}
+h2{
+font-weight:lighter;
+font-size: 20px;
+font-family: Oxygen,Helvetica Neue,Arial;
+}
+
+h3
+{   font-size:40px ;
+font-family: Oxygen,Helvetica Neue,Arial;
+
+}
+details
+{
+font-family:Oxygen,Helvetica Neue,Arial;
+font-size: 20px;
+}
+
+hr
+{
+border-color: skyblue;
+}
+
+select
+{
+border-color: #E3E5E7;
+background-color: #E3E5E7;
+color: skyblue;
+font-size: 20px;
+}
